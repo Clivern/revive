@@ -2,7 +2,7 @@ repo_name: Clivern/revive
 report_id: 3732e64c7a8cd8e77b3464c53e13f707
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:26:54+00:00'
+timestamp: '2024-01-05T08:18:57+00:00'
 requested_by: Clivern
 provider: github
 branch: master
@@ -18,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/Clivern/revive
   detection_source: Repo Metadata
 - name: ScratchDB
   description: Open source Snowflake on ClickHouse
@@ -27,6 +28,7 @@ tools:
   category: Data Stores
   sub_category: Big Data Tools
   image_url: https://img.stackshare.io/service/104997/default_64f16b2ca9869cd997fc48770dfb2fbf268a56d1.png
+  detection_source_url: https://github.com/Clivern/revive/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: doniacld
   last_updated_on: 2021-10-15 06:36:14.000000000 Z
@@ -39,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Clivern/revive
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/revive
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -57,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Clivern/revive/blob/master/.github/workflows/build-test.yaml
   detection_source: ".github/workflows/build-test.yaml"
   last_updated_by: doniacld
   last_updated_on: 2021-10-18 17:27:26.000000000 Z
@@ -69,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Clivern/revive/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: mgechev
   last_updated_on: 2018-10-30 22:27:44.000000000 Z
